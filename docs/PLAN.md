@@ -8,7 +8,7 @@ Se un prerequisito di Andrea manca, si fa tutto il resto e si annota `BLOCCATO:`
 | Quando | Cosa |
 |--------|------|
 | Giovedì 1, pomeriggio | Connettere Upstash Redis al progetto dal Marketplace di Vercel |
-| Venerdì 2 – lunedì 5 mattina | Validare `docs/CONTENUTI-DA-VALIDARE.md` (slang e tag invecchiano in fretta) |
+| Da subito, in chat | Approvare o correggere i blocchi di contenuti (domande, tag, risposte, giudizi finali) man mano che arrivano |
 | Entro mercoledì 7 | Impostare `ADMIN_PASSWORD` nelle variabili d'ambiente del progetto Vercel |
 | Giovedì 8 sera | Caricare le immagini in `public/img/<slug>.webp` (vedi `docs/IMAGES.md`) |
 | Venerdì 9 mattina | Fornire il contatto del titolare per `/privacy` |
@@ -21,15 +21,17 @@ Se un prerequisito di Andrea manca, si fa tutto il resto e si annota `BLOCCATO:`
 - [ ] Design tokens (palette, font via `next/font`, raggi, ombre) in stile social contemporaneo
 - [ ] Setup Vitest
 
-## Giorno 2 — ven 2 ott: contenuti
-- [ ] Contenuti fenomeni 1–10: intro, 3 tag corretti, 4 errati plausibili, COS'È, PERCHÉ, didascalia
-- [ ] Contenuti fenomeni 11–20 (ME CONTRO TE con tono pre-teen)
-- [ ] Inserire i contenuti in `data/phenomena.ts`
-- [ ] Generare `docs/CONTENUTI-DA-VALIDARE.md` leggibile (una scheda per fenomeno) con spazio per correzioni
-- [ ] Segnalare in `PROGRESS.md` cosa deve validare Andrea
+## Fase 0 — contenuti definiti in chat con Andrea (in corso, prima del Giorno 2)
+Andrea e Claude definiscono in chat, a blocchi di 4 fenomeni: domanda, 3 tag corretti, 4 tag errati, COS'È, PERCHÉ, didascalia, e i giudizi finali (frasi ironiche per fascia e per BRO/SIS/ZIO/ZIA/BOOMER). Ogni blocco approvato viene salvato in `docs/CONTENUTI.md`, che è la fonte di verità dei testi. Niente testi inventati da sessioni automatiche.
+
+## Giorno 2 — ven 2 ott: integrazione contenuti
+- [ ] Integrare `docs/CONTENUTI.md` in `data/phenomena.ts` e nelle costanti dei giudizi finali, testi identici a quelli approvati
+- [ ] Per i fenomeni "DA DEFINIRE": segnaposto evidente e `BLOCCATO:` in `PROGRESS.md`, nessun testo inventato
+- [ ] Test: ogni fenomeno completo ha 3 tag corretti e 4 errati, tutti distinti
+- [ ] Segnalare in `PROGRESS.md` cosa resta da definire con Andrea
 
 ## Giorno 3 — lun 5 ott: logica
-- [ ] Applicare le correzioni di Andrea (file di contenuti e/o `docs/CORREZIONI.md`)
+- [ ] Applicare eventuali correzioni successive di Andrea a `docs/CONTENUTI.md` e ai dati
 - [ ] Shuffle Fisher–Yates: ordine delle 20 domande e posizione dei 7 tag, contenuto mai alterato
 - [ ] Stato della sessione: numero X / 20, selezione massimo 3 tag, conferma, punteggio
 - [ ] Classificazione finale (soglie e termini da SPEC) e calcolo categoria migliore in percentuale
