@@ -33,7 +33,7 @@ RIZZ e MEWING sono stati tolti. Aggiunti SPINGERE e ME CONTRO TE. Il 30/09 SIGMA
 
 - Ogni fenomeno ha un campo `stem` (frase della domanda): non va scritto nel codice dell'interfaccia.
 - BREAKFAST CLUB (Italia): collettivo italiano scelto da Andrea (al posto di Viola Silvi, a sua volta subentrata a Kai Cenat). Specificare sempre "Italia" per distinguerlo dall'omonimo programma radiofonico statunitense. Formato domanda da rivedere con Andrea: l'idea è «Chi compone il Breakfast Club (Italia)?», con i tag corretti e i distrattori basati sui membri. Scrivere solo ciò di cui si è certi, marcare ogni dubbio (soprattutto la composizione attuale) come "DA VERIFICARE" e non inventare dettagli su persone reali.
-- Le domande (`stem`) sono scritte a mano per ogni fenomeno, non seguono una formula fissa: quelle già definite da Andrea sono nella tabella, le altre arrivano da `docs/CONTENUTI.md`.
+- Le domande (`stem`) e tutti i testi sono scritti a mano per ogni fenomeno. La colonna «Formato domanda» della tabella è solo indicativa: **fa fede `docs/CONTENUTI.md`**, che prevale in caso di differenze.
 - Macro-categorie: Slang (10), Creator (5), Meme e gesti (2), Moda e brand (3).
 - Il "categoria migliore" del risultato finale si calcola sulla **percentuale** di tag corretti per categoria (le categorie hanno dimensioni diverse), non sul conteggio assoluto. Spareggio: ordine Slang, Creator, Meme e gesti, Moda e brand.
 - Il brief originale prevedeva blocchi separati "COS'È?" e "PERCHÉ?" e una didascalia: sono superati. La schermata dopo la risposta mostra un solo blocco di commento, intitolato "COS'È E PERCHÉ?" (titolo proposto), e l'immagine senza didascalia.
