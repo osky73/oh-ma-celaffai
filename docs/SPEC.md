@@ -6,13 +6,13 @@ Lingua del prodotto, dei testi e dei commenti: italiano.
 
 ## 1. I 20 fenomeni (decisi)
 
-RIZZ e MEWING sono stati tolti. Aggiunti SPINGERE e ME CONTRO TE. Non sostituire altri slang.
+RIZZ e MEWING sono stati tolti. Aggiunti SPINGERE e ME CONTRO TE. Il 30/09 SIGMA è stato sostituito da GOAT e KAI CENAT da VIOLA SILVI. Non sostituire altri fenomeni senza una nuova indicazione di Andrea.
 
 | # | Fenomeno | Slug immagine | Macro-categoria | Formato domanda (`stem`) |
 |---|----------|---------------|-----------------|--------------------------|
 | 1 | 6/7 (sixseven) | sixseven | Slang | Cosa significa «6/7»? |
 | 2 | AURA | aura | Slang | Cosa significa «aura»? |
-| 3 | SIGMA | sigma | Slang | Cosa significa «sigma»? |
+| 3 | GOAT | goat | Slang | Cosa significa «GOAT»? |
 | 4 | BRAINROT | brainrot | Slang | Cosa significa «brainrot»? |
 | 5 | FLEXARE | flexare | Slang | Cosa significa «flexare»? |
 | 6 | DROPPARE | droppare | Slang | Cosa significa «droppare»? |
@@ -24,7 +24,7 @@ RIZZ e MEWING sono stati tolti. Aggiunti SPINGERE e ME CONTRO TE. Non sostituire
 | 12 | SIUUU | siuuu | Meme e gesti | Cos'è «SIUUU»? |
 | 13 | KHABY LAME | khaby-lame | Creator | Chi è Khaby Lame? |
 | 14 | ISHOWSPEED | ishowspeed | Creator | Chi è IShowSpeed? |
-| 15 | KAI CENAT | kai-cenat | Creator | Chi è Kai Cenat? |
+| 15 | VIOLA SILVI | viola-silvi | Creator | Chi è Viola Silvi? |
 | 16 | MRBEAST | mrbeast | Creator | Chi è MrBeast? |
 | 17 | ME CONTRO TE | me-contro-te | Creator | Chi sono i Me contro Te? (target più pre-teen: tono e tag coerenti) |
 | 18 | DRIP | drip | Moda e brand | Cosa significa «drip»? |
@@ -32,6 +32,7 @@ RIZZ e MEWING sono stati tolti. Aggiunti SPINGERE e ME CONTRO TE. Non sostituire
 | 20 | GCDS | gcds | Moda e brand | Cos'è «GCDS»? |
 
 - Ogni fenomeno ha un campo `stem` (frase della domanda): non va scritto nel codice dell'interfaccia.
+- VIOLA SILVI: scelta di Andrea, senza contesto fornito. Scrivere solo ciò di cui si è certi e marcare ogni dubbio come "DA VERIFICARE" nel documento di validazione; non inventare dettagli su una persona reale.
 - Slang: «Cosa significa [termine]?». Creator: «Chi è?». Brand, prodotti, meme e gesti: «Cos'è?».
 - Macro-categorie: Slang (10), Creator (5), Meme e gesti (2), Moda e brand (3).
 - Il "categoria migliore" del risultato finale si calcola sulla **percentuale** di tag corretti per categoria (le categorie hanno dimensioni diverse), non sul conteggio assoluto. Spareggio: ordine Slang, Creator, Meme e gesti, Moda e brand.
