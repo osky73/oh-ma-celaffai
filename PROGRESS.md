@@ -8,3 +8,4 @@ Registro di avanzamento letto e aggiornato da ogni sessione pianificata. Voci in
 - 2026-09-30 (sera, 3): Andrea definisce i contenuti in chat prima dell'implementazione. Nuovo file `docs/CONTENUTI.md` (fonte di verità). Il Giorno 2 diventa solo integrazione dei contenuti approvati.
 - 2026-09-30 (sera, 4): decisioni di Andrea sul formato: niente didascalie, un solo commento «COS'È E PERCHÉ?» per fenomeno (campo `spiegazione`), domande scritte a mano (es. «Chi è GOAT?», «Quando hai aura?», «6/7 ma in che senso?», «Quando qualcosa spinge?»), tag mostrati esattamente come scritti.
 - 2026-09-30 (sera, 5): approvato il blocco 1 di contenuti (GOAT, AURA, 6/7, SPINGERE) e salvato in `docs/CONTENUTI.md`. Le sessioni pianificate girano alle 12:00 ora italiana invece che alle 09:00.
+- 2026-09-30 (sera, 6): decisione di Andrea: niente introduzione sotto la domanda (campo `intro` eliminato). Tolte anche dai 4 fenomeni già approvati.

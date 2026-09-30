@@ -39,7 +39,7 @@ Andrea e Claude definiscono in chat, a blocchi di 4 fenomeni: domanda, 3 tag cor
 
 ## Giorno 4 — mar 6 ott: schermate del quiz
 - [ ] Schermata iniziale
-- [ ] Schermata domanda: immagine grande zoomata e scurita, nome, intro, 7 chip, "Scegli 3 tag", conferma
+- [ ] Schermata domanda: immagine grande zoomata e scurita, nome del fenomeno, 7 chip, "Scegli 3 tag", conferma
 - [ ] Schermata "VEDIAMO SE CI HAI PRESO": corretti, sbagliati, selezioni giuste, corretti non selezionati, commento unico «COS'È E PERCHÉ?», immagine rivelata senza didascalia, "PROSSIMA DOMANDA"
 - [ ] Fallback grafico quando l'immagine manca
 - [ ] Animazioni leggere, `prefers-reduced-motion`, tap target, `aria-pressed`, contrasto
