@@ -1,6 +1,6 @@
 # Piano di realizzazione — 7 giorni lavorativi (gio 1 – ven 9 ottobre 2026)
 
-Ogni giornata ha un'attività pianificata alle 09:00 (ora italiana) che legge `docs/SPEC.md`, questo file e `PROGRESS.md`, esegue i microtask del proprio giorno, spunta le caselle, aggiorna `PROGRESS.md` e fa push su `main`.
+Ogni giornata ha un'attività pianificata alle 12:00 (ora italiana) che legge `docs/SPEC.md`, questo file e `PROGRESS.md`, esegue i microtask del proprio giorno, spunta le caselle, aggiorna `PROGRESS.md` e fa push su `main`.
 Se un prerequisito di Andrea manca, si fa tutto il resto e si annota `BLOCCATO:` in `PROGRESS.md`.
 
 ## Cosa serve da Andrea
