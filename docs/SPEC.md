@@ -54,7 +54,7 @@ Ordine: 1) punteggio e percentuale, 2) classificazione, 3) suggerimenti, 4) sugg
 
 - Frase da riportare **identica, senza correggerla**: `Prima di dirti se celaffai dimmi chi vuoi essere?` (costante unica nel codice, mostrata solo dopo il calcolo del punteggio).
 - Switch MASCHIO / FEMMINA: non cambia punteggio, domande, risposte, percentuale. Decide solo il termine finale.
-- 43–60: BRO / SIS. 21–42: ZIO / ZIA. 0–20: BOOMER (indipendente dalla scelta, da usare in modo ironico e riferito solo alla conoscenza dei trend, non all'età).
+- 41–60: BRO / SIS. 21–40: ZIO / ZIA. 0–20: BOOMER (soglie decise da Andrea il 30/09, sostituiscono 43/42 del brief; una sola frase ironica per fascia, vedi CONTENUTI.md) (indipendente dalla scelta, da usare in modo ironico e riferito solo alla conoscenza dei trend, non all'età).
 - Non chiedere mai il genere all'inizio.
 
 ## 4. Suggerimenti (regole aggiornate rispetto al brief)

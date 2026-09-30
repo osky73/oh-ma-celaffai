@@ -38,7 +38,7 @@ I tag vanno mostrati esattamente come scritti. I tag sono separati da " | ".
 - categoria: Slang
 - domanda: Quando è brainrot?
 - corretti: senza senso | cervello | fuso
-- errati: studiare troppo | malato | mal di testa | documentari
+- errati: studiare troppo | erba | mal di testa | documentari
 - spiegazione: «Brainrot» significa letteralmente «cervello marcio»: sono i contenuti online così assurdi e ripetitivi da friggerti il cervello, e anche lo stato di chi ne guarda troppi. Piace perché è autoironico: lo dici di te stesso con un misto di orgoglio e vergogna.
 
 ## 5. FLEXARE
@@ -70,7 +70,7 @@ I tag vanno mostrati esattamente come scritti. I tag sono separati da " | ".
 - categoria: Slang
 - domanda: Mi cringia un po'.
 - corretti: imbarazzo | ehm | pelle d'oca
-- errati: noia | sadness | spavento | fuori moda
+- errati: noia | sadness | horror | fuori moda
 - spiegazione: «Cringe» indica qualcosa di così imbarazzante da guardare o sentire da farti rabbrividire: il video ballato male, il prof che prova a parlare come i giovani, il commento da parente sotto un meme. È la vergogna che provi al posto di un altro. Il suo suono è «ehm», la sua reazione la pelle d'oca. È diventata la parola-giudice dei social perché con una sillaba chiude il discorso.
 
 ## 9. CHILL / CHILLARE
@@ -118,7 +118,7 @@ I tag vanno mostrati esattamente come scritti. I tag sono separati da " | ".
 - categoria: Creator
 - domanda: IShowSpeed what?
 - corretti: urla | CR7 | streamer
-- errati: calcio | trap | tik tok | cucina
+- errati: snow board | trap | twitter | cucina
 - spiegazione: IShowSpeed è uno streamer e YouTuber americano, noto per le reazioni esagerate, le urla e le dirette in cui gira il mondo incontrando fan e campioni. Tifoso dichiarato di Cristiano Ronaldo, ha reso popolare ovunque il suo «Siuuu». I ragazzi lo riconoscono perché è l'incarnazione del caos online: nessuna diretta è uguale all'altra e ogni clip diventa un meme.
 
 ## 15. BREAKFAST CLUB (Italia)
@@ -169,3 +169,11 @@ I tag vanno mostrati esattamente come scritti. I tag sono separati da " | ".
 - corretti: italy | Hello Kitty | logo
 - errati: calcio | krypto | orologi | gaming
 - spiegazione: GCDS sta per «God Can't Destroy Streetwear» ed è un marchio italiano fondato nel 2015 dai fratelli Giuliano e Giordano Calza: felpe, t-shirt e accessori con un logo grande e colorato, spesso nati in collaborazione con personaggi famosi, come Hello Kitty. Lo riconosci perché il logo si vede da lontano, ed è diventato uno dei nomi dello streetwear italiano anche tra i più giovani.
+
+## Giudizi finali (approvati nella struttura il 30/09; testi in bozza)
+
+Tre fasce, ognuna con una sola frase abbinata al termine finale. Il termine dipende dallo switch MASCHIO/FEMMINA (BOOMER è uguale per entrambi).
+
+- 41–60 · BRO / SIS: «Sei dentro. Puoi dire "celaffai" senza sentirti in imbarazzo.»
+- 21–40 · ZIO / ZIA: «Ci provi, e si vede. Metà ti sfugge, l'altra metà la fingi bene.»
+- 0–20 · BOOMER: «Sui trend sei fermo al 2012. Non è l'età: è il feed. Da domani puoi rimediare.»

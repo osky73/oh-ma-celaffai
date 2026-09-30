@@ -63,4 +63,5 @@ Andrea e Claude definiscono in chat, a blocchi di 4 fenomeni: domanda, 3 tag cor
 - [ ] Meta tag, immagine di anteprima social (generata da codice), favicon, pagina `/privacy`
 - [ ] Controlli responsive, accessibilità e prestazioni (build, peso immagini, LCP ragionevole)
 - [ ] Deploy in produzione, verifica che sia pronto e senza errori nei log
+- [ ] Proporre ad Andrea la card personaggio condivisibile sui social (Web Share API, immagine generata da codice, punteggio e termine finale), con stima del lavoro: non implementarla senza approvazione
 - [ ] Riepilogo finale in `PROGRESS.md`: cosa è fatto, cosa resta (dominio, contatto, verifica legale, termini Vercel per uso commerciale)
