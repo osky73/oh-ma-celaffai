@@ -2,7 +2,7 @@
 
 Fonte di verità dei testi del quiz (prevale su qualsiasi domanda scritta nella tabella di `docs/SPEC.md`). Formato per fenomeno: domanda, 3 tag corretti, 4 tag errati, spiegazione (COS'È e PERCHÉ insieme). Niente didascalie e niente intro.
 
-Stato (30/09): tutti i 20 fenomeni definiti da Andrea. Commenti allineati ai tag corretti. Refusi corretti rispetto al testo di Andrea: wrestling, fashion, sneakers. Da verificare: 15 (serie a Mykonos indicata da Andrea, non confermata da ricerca web).
+Stato (30/09): tutti i 20 fenomeni definiti da Andrea. Commenti allineati ai tag corretti. Refusi corretti rispetto al testo di Andrea: wrestling, fashion, sneakers. Serie a Mykonos (scheda 15) confermata da Andrea il 30/09.
 
 I tag vanno mostrati esattamente come scritti. I tag sono separati da " | ".
 
