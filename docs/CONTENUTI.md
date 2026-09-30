@@ -170,10 +170,10 @@ I tag vanno mostrati esattamente come scritti. I tag sono separati da " | ".
 - errati: calcio | krypto | orologi | gaming
 - spiegazione: GCDS sta per «God Can't Destroy Streetwear» ed è un marchio italiano fondato nel 2015 dai fratelli Giuliano e Giordano Calza: felpe, t-shirt e accessori con un logo grande e colorato, spesso nati in collaborazione con personaggi famosi, come Hello Kitty. Lo riconosci perché il logo si vede da lontano, ed è diventato uno dei nomi dello streetwear italiano anche tra i più giovani.
 
-## Giudizi finali (testi in bozza, 30/09)
+## Giudizi finali (testi definitivi di Andrea, 30/09)
 
 Tre fasce, una frase ciascuna, abbinata al termine finale. Il termine dipende dallo switch MASCHIO/FEMMINA (BOOMER è uguale per entrambi).
 
 - 0–20 · BOOMER: «Ma tu non celaffai proprio! Il giovane per te è un marziano fatto con l'AI e le "cose" del quiz sono lingua straniera. Sui trend sei fermo in zona pre-covid e il resto è un messaggio effimero di whatsapp. Prova a scaricare un aggiornamento, ma non so se il tuo device è ancora supportato. Che ne pensi di andare in crociera?» (testo di Andrea)
 - 21–40 · ZIO / ZIA: «Sei un po' al limite, ma celaffai ancora. Ti muovi, fai cose, vedi gente, ci provi e si vede: metà delle cose però ti sfugge e l'altra metà la fingi piuttosto bene, meglio di tuo zio a Natale, ma non di tuo cugino. Segui ancora Sanremo ma tutta sta trap anche no. Quanto ti piacerebbe partecipare a Pechino Express eh?» (testo di Andrea)
-- 41–60 · BRO / SIS: «Tu celaffai e te la scialli anche. Hai capito il giro, sai di cosa si parla e anche perché: il tuo feed è più aggiornato del nostro e non ti sfugge niente.»
+- 41–60 · BRO / SIS: «Tu celaffai e te la scialli anche. Hai capito come gira la giostra, sai di cosa si parla e anche perché. Il tuo feed è aggiornato e non ti sfugge niente. X-Factor, Tik tok e monopattino sono le tue fonti di informazione (sixseveeeen). Ma occhio che è un attimo...» (testo di Andrea)

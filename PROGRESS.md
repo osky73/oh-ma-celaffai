@@ -18,3 +18,4 @@ Registro di avanzamento letto e aggiornato da ogni sessione pianificata. Voci in
 - 2026-09-30 (sera, 13): nei giudizi finali la frase con «celaffai» passa all'inizio.
 - 2026-09-30 (sera, 14): giudizio 0–20 (BOOMER) sostituito con il testo scritto da Andrea.
 - 2026-09-30 (sera, 15): giudizio 21–40 (ZIO/ZIA) sostituito con il testo scritto da Andrea.
+- 2026-09-30 (sera, 16): giudizio 41–60 (BRO/SIS) sostituito con il testo di Andrea. Tutti e tre i giudizi finali sono ora testi suoi e definitivi.
