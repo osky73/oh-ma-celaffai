@@ -39,7 +39,7 @@ RIZZ e MEWING sono stati tolti. Aggiunti SPINGERE e ME CONTRO TE. Il 30/09 SIGMA
 - Il brief originale prevedeva blocchi separati "COS'È?" e "PERCHÉ?" e una didascalia: sono superati. La schermata dopo la risposta mostra un solo blocco di commento, intitolato "COS'È E PERCHÉ?" (titolo proposto), e l'immagine senza didascalia.
 - I tag si mostrano esattamente come scritti in `docs/CONTENUTI.md` (anche minuscoli e con grafia informale), senza normalizzarli.
 - Per ogni fenomeno: 3 tag corretti + 4 tag errati plausibili e legati al tema (niente risposte assurde). Il dataset è fisso: lo shuffle cambia solo l'ordine delle domande e la posizione dei 7 tag, mai il contenuto.
-- Tono: leggero, ironico, contemporaneo, mai da gioco per bambini. Campi per fenomeno: intro brevissima, COS'È, PERCHÉ, didascalia immagine.
+- Tono: leggero, ironico, contemporaneo, mai da gioco per bambini. Campi per fenomeno: intro brevissima e un unico commento che spiega COS'È e PERCHÉ insieme (campo `spiegazione`). Nessuna didascalia sulle immagini: decisione di Andrea.
 
 ## 2. Immagini
 
