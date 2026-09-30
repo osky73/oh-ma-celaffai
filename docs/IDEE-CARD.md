@@ -23,3 +23,4 @@ Le illustrazioni (SVG originali disegnati da codice, oppure immagini caricate da
 - Alternativa originale da proporre: sullo sfondo, sfocato, un lavavetri o un rider appeso fuori dalla finestra (gag visiva, nessun riferimento a personaggi protetti).
 
 - Variante da proporre: figura sfocata in tuta integrale appesa nel riquadro della finestra, con palette originale (es. arancio e viola, oppure turchese e giallo senape), lontana da quella di supereroi noti (niente rosso/blu, niente verde/nero).
+- Scelta di Andrea (30/09): figura sfocata in tuta integrale completamente nera, appesa nel riquadro della finestra come se stesse per saltare giù. Sostituisce le palette proposte sopra.
