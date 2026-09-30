@@ -1,0 +1,5 @@
+# PROGRESS
+
+Registro di avanzamento letto e aggiornato da ogni sessione pianificata. Voci in ordine cronologico, le più recenti in basso. Segnare `BLOCCATO:` quando manca un prerequisito di Andrea.
+
+- 2026-09-30: creati brief originale, `docs/SPEC.md` e `docs/PLAN.md`. Repo vuota, nessun codice ancora. Decisioni chiave: 20 fenomeni definitivi (vedi SPEC), suggerimenti con frasi meme, elenco "Stanno salendo" con voto tap, Upstash Redis.
