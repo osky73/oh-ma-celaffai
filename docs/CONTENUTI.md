@@ -2,7 +2,7 @@
 
 Fonte di verità dei testi del quiz (prevale su qualsiasi domanda scritta nella tabella di `docs/SPEC.md`). Formato per fenomeno: domanda, 3 tag corretti, 4 tag errati, spiegazione (COS'È e PERCHÉ insieme). Niente didascalie e niente intro.
 
-Stato (30/09): definiti da Andrea tutti i fenomeni tranne: 15 BREAKFAST CLUB (manca la spiegazione) e 19 FIVEFOURFIVE (spiegazione DA DEFINIRE). Refusi corretti rispetto al testo di Andrea: wrestling, fashion, sneakers.
+Stato (30/09): tutti i 20 fenomeni definiti da Andrea. Commenti allineati ai tag corretti. Refusi corretti rispetto al testo di Andrea: wrestling, fashion, sneakers. Da verificare: 15 (serie a Mykonos indicata da Andrea, non confermata da ricerca web).
 
 I tag vanno mostrati esattamente come scritti. I tag sono separati da " | ".
 
@@ -47,7 +47,7 @@ I tag vanno mostrati esattamente come scritti. I tag sono separati da " | ".
 - domanda: Quanto flexi quello?
 - corretti: vantarsi | proud | outfit
 - errati: stretching | chiedere scusa | regalo | ti lamenti
-- spiegazione: «Flexare» viene dall'inglese «to flex», far vedere i muscoli, e vuol dire esibire qualcosa che hai (soldi, scarpe, un risultato) per far vedere quanto sei avanti. Ha un tono ironico: «che flex» è un complimento, «flexi troppo» un rimprovero scherzoso. Sui social è ovunque perché outfit e acquisti sono il suo terreno naturale.
+- spiegazione: «Flexare» viene dall'inglese «to flex», far vedere i muscoli, e vuol dire esibire qualcosa che hai (soldi, scarpe, un risultato) per far vedere quanto sei avanti. Ha un tono ironico: «che flex» è un complimento, «flexi troppo» un rimprovero scherzoso. Dietro c'è l'orgoglio: flexi quando sei proud di qualcosa e vuoi che si veda. Sui social è ovunque perché outfit e acquisti sono il suo terreno naturale.
 
 ## 6. DROPPARE
 - slug: droppare
@@ -63,7 +63,7 @@ I tag vanno mostrati esattamente come scritti. I tag sono separati da " | ".
 - domanda: Non ghostarmi!
 - corretti: sparisci | n.r. | spunte grigie
 - errati: paura | dolcetto scherzetto | un regalo | invitami fuori
-- spiegazione: «Ghostare» viene dall'inglese «to ghost»: sparire dalla vita di qualcuno come un fantasma, smettendo di rispondere a messaggi e chiamate senza spiegazioni. Succede nelle chat e nelle frequentazioni, da una parte o dall'altra, ed è diventata parola di tutti i giorni perché descrive un comportamento che capita a chiunque.
+- spiegazione: «Ghostare» viene dall'inglese «to ghost»: sparire dalla vita di qualcuno come un fantasma, smettendo di rispondere a messaggi e chiamate senza spiegazioni. I segnali classici sono le spunte che restano grigie e l'«n.r.», nessuna risposta. Succede nelle chat e nelle frequentazioni, da una parte o dall'altra, ed è diventata parola di tutti i giorni perché descrive un comportamento che capita a chiunque.
 
 ## 8. CRINGE
 - slug: cringe
@@ -71,15 +71,15 @@ I tag vanno mostrati esattamente come scritti. I tag sono separati da " | ".
 - domanda: Mi cringia un po'.
 - corretti: imbarazzo | ehm | pelle d'oca
 - errati: noia | sadness | spavento | fuori moda
-- spiegazione: «Cringe» indica qualcosa di così imbarazzante da guardare o sentire da farti rabbrividire: il video ballato male, il prof che prova a parlare come i giovani, il commento da parente sotto un meme. È la vergogna che provi al posto di un altro. È diventata la parola-giudice dei social perché con una sillaba chiude il discorso.
+- spiegazione: «Cringe» indica qualcosa di così imbarazzante da guardare o sentire da farti rabbrividire: il video ballato male, il prof che prova a parlare come i giovani, il commento da parente sotto un meme. È la vergogna che provi al posto di un altro. Il suo suono è «ehm», la sua reazione la pelle d'oca. È diventata la parola-giudice dei social perché con una sillaba chiude il discorso.
 
 ## 9. CHILL / CHILLARE
 - slug: chill
 - categoria: Slang
 - domanda: Chilliamo un attimo
-- corretti: rilassati | tra | senza stress
+- corretti: rilassati | vai tra | senza stress
 - errati: arrabbiati | running | brrr freddo | sei in ritardo
-- spiegazione: «Chill» è l'inglese per «rilassato, tranquillo» e «chillare» è il verbo italiano che ne è uscito: stare tranquilli, senza stress e senza fare niente di speciale. Si usa anche come aggettivo («è una persona chill») e per dire «calma». Descrive lo stile di vita che i ragazzi rivendicano: niente ansia e niente fretta.
+- spiegazione: «Chill» è l'inglese per «rilassato, tranquillo» e «chillare» è il verbo italiano che ne è uscito: stare tranquilli, senza stress e senza fare niente di speciale. Si usa anche come aggettivo («è una persona chill») e per dire «calma»; «vai tra» vuol dire «vai tranquillo». Descrive lo stile di vita che i ragazzi rivendicano: niente ansia e niente fretta.
 
 ## 10. SPINGERE
 - slug: spingere
@@ -127,7 +127,7 @@ I tag vanno mostrati esattamente come scritti. I tag sono separati da " | ".
 - domanda: Cosa sai del Breakfast Club (Italia)?
 - corretti: silvi | tik tok | mikonos
 - errati: Max Angioni | only for men | facebook | ricette
-- spiegazione: DA DEFINIRE (serve contesto da Andrea su cos'è il collettivo)
+- spiegazione: Il Breakfast Club è un collettivo italiano di giovanissimi creator: Cristiano Borsi, Fabio Ferrucci e Viola Silvi. Sono diventati famosissimi tra i teenager con video ironici e spontanei su TikTok dedicati alle dinamiche adolescenziali. Dai trend social sono arrivati al mondo reale, con libri bestseller, una serie ambientata a Mykonos e continue apparizioni in tv.
 
 ## 16. MRBEAST
 - slug: mrbeast
@@ -135,7 +135,7 @@ I tag vanno mostrati esattamente come scritti. I tag sono separati da " | ".
 - domanda: Dimmi qualcosa su MrBeast?
 - corretti: soldi | eliminazione | Feastables
 - errati: rap | ballo | wrestling | UK
-- spiegazione: MrBeast (Jimmy Donaldson) è uno YouTuber americano famoso per video con sfide giganti e regali spropositati, dai soldi alle case alle auto. È uno dei creator più seguiti del mondo e ha lanciato anche Feastables, la sua marca di barrette di cioccolato. Piace perché ogni video è un evento costruito per stupire, e si capisce subito anche senza conoscere la lingua.
+- spiegazione: MrBeast (Jimmy Donaldson) è uno YouTuber americano famoso per video con sfide giganti e regali spropositati, dai soldi alle case alle auto. Spesso le sfide sono a eliminazione, con un vincitore finale. È uno dei creator più seguiti del mondo e ha lanciato anche Feastables, la sua marca di barrette di cioccolato. Piace perché ogni video è un evento costruito per stupire, e si capisce subito anche senza conoscere la lingua.
 
 ## 17. ME CONTRO TE
 - slug: me-contro-te
@@ -143,7 +143,7 @@ I tag vanno mostrati esattamente come scritti. I tag sono separati da " | ".
 - domanda: Quando sei Me contro Te?
 - corretti: matrimonio | Sofì | bambini
 - errati: sneakers | Pechino | pokemon | Netflix
-- spiegazione: I Me contro Te sono Luì e Sofì, una coppia di youtuber italiani che fa video e film pensati per i più piccoli: sfide, scherzi, storie e canzoni. Sono tra i creator più amati dai bambini in Italia e ogni loro uscita fa il pieno. I più grandi li riconoscono perché li hanno visti crescere, o perché li guardano i fratelli minori.
+- spiegazione: I Me contro Te sono Luì e Sofì, una coppia di youtuber italiani che fa video e film pensati per i più piccoli: sfide, scherzi, storie e canzoni. Sono tra i creator più amati dai bambini in Italia e ogni loro uscita fa il pieno. Si sono anche sposati pubblicamente in un matrimonio-show. I più grandi li riconoscono perché li hanno visti crescere, o perché li guardano i fratelli minori.
 
 ## 18. DRIP
 - slug: drip
@@ -151,7 +151,7 @@ I tag vanno mostrati esattamente come scritti. I tag sono separati da " | ".
 - domanda: Hai abbastanza drip?
 - corretti: outfit | brand | fashion
 - errati: bagnato | caffè | follower | stanco
-- spiegazione: Il drip è lo stile: un outfit curato, le scarpe giuste, gli accessori e la sicurezza di portarli. Viene dall'inglese «drip» (goccia) e dal rap, dove gioielli e look «gocciolano» addosso. «Hai drip» è il complimento massimo a un look: in pratica vuol dire «hai stile».
+- spiegazione: Il drip è lo stile: un outfit curato, le scarpe giuste, gli accessori e la sicurezza di portarli. Viene dall'inglese «drip» (goccia) e dal rap, dove gioielli e look «gocciolano» addosso. «Hai drip» è il complimento massimo a un look: in pratica vuol dire «hai stile». Conta anche il brand: il drip passa dai marchi che indossi.
 
 ## 19. FIVEFOURFIVE (545)
 - slug: fivefourfive
@@ -159,7 +159,7 @@ I tag vanno mostrati esattamente come scritti. I tag sono separati da " | ".
 - domanda: Ti piace FIVEFOURFIVE?
 - corretti: community | Temporary | Santeramo
 - errati: rap | serie | Tesla | banana bread
-- spiegazione: DA DEFINIRE. Testo provvisorio di Andrea (da riscrivere nel tono del quiz e da far coprire anche il tag «Temporary», di cui serve il significato): «FIVEFOURFIVE (noto anche come 545) rappresenta per la Gen Z italiana molto più di un semplice marchio di abbigliamento: è un fenomeno culturale e generazionale che ridefinisce le regole della moda giovanile in Italia. Fondato nel 2020 dal content creator Luca Santeramo (in arte Sante), il brand ha intercettato perfettamente i desideri, i canali di comunicazione e i comportamenti d'acquisto dei ragazzi tra i 18 e i 28 anni.»
+- spiegazione: FIVEFOURFIVE, detto anche 545, è un marchio di abbigliamento italiano nato nel 2020 dal content creator Luca Santeramo, in arte Sante. Più di una marca è una community, soprattutto di ragazzi tra i 18 e i 28 anni, che segue le novità online e si ritrova nei temporary shop, i negozi aperti solo per pochi giorni. Per questo viene visto come un fenomeno della Gen Z italiana.
 - fonti indicate da Andrea: https://fivefourfive.it/ ; https://www.instagram.com/sante/
 
 ## 20. GCDS
