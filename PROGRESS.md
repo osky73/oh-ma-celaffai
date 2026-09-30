@@ -14,3 +14,4 @@ Registro di avanzamento letto e aggiornato da ogni sessione pianificata. Voci in
 - 2026-09-30 (sera, 9): tag cambiati: 4 «malato»→«erba», 8 «spavento»→«horror», 14 «calcio»→«snow board» e «tik tok»→«twitter»; 13 confermato. Fasce finali ora 0–20 / 21–40 / 41–60 con una frase per fascia (`docs/CONTENUTI.md`). Idea da proporre a fine sviluppo (Giorno 7): card personaggio condivisibile sui social (Web Share API, immagine generata da codice con punteggio e BRO/SIS/ZIO/ZIA/BOOMER). Contenuti completi.
 - 2026-09-30 (sera, 10): idee di Andrea per i personaggi della card salvate in `docs/IDEE-CARD.md` (personaggi originali ispirati, non i personaggi protetti).
 - 2026-09-30 (sera, 11): aggiornata l'idea ZIA in `docs/IDEE-CARD.md` (giovanile, sui 40, gag sullo sfondo con personaggio originale).
+- 2026-09-30 (sera, 12): giudizi finali riscritti in 3 frasi più lunghe con il refrain «celaffai» (testi di chiusura dati da Andrea).

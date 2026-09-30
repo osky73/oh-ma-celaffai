@@ -170,10 +170,10 @@ I tag vanno mostrati esattamente come scritti. I tag sono separati da " | ".
 - errati: calcio | krypto | orologi | gaming
 - spiegazione: GCDS sta per «God Can't Destroy Streetwear» ed è un marchio italiano fondato nel 2015 dai fratelli Giuliano e Giordano Calza: felpe, t-shirt e accessori con un logo grande e colorato, spesso nati in collaborazione con personaggi famosi, come Hello Kitty. Lo riconosci perché il logo si vede da lontano, ed è diventato uno dei nomi dello streetwear italiano anche tra i più giovani.
 
-## Giudizi finali (approvati nella struttura il 30/09; testi in bozza)
+## Giudizi finali (testi in bozza, 30/09)
 
-Tre fasce, ognuna con una sola frase abbinata al termine finale. Il termine dipende dallo switch MASCHIO/FEMMINA (BOOMER è uguale per entrambi).
+Tre fasce, una frase ciascuna, abbinata al termine finale. Il termine dipende dallo switch MASCHIO/FEMMINA (BOOMER è uguale per entrambi).
 
-- 41–60 · BRO / SIS: «Sei dentro. Puoi dire "celaffai" senza sentirti in imbarazzo.»
-- 21–40 · ZIO / ZIA: «Ci provi, e si vede. Metà ti sfugge, l'altra metà la fingi bene.»
-- 0–20 · BOOMER: «Sui trend sei fermo al 2012. Non è l'età: è il feed. Da domani puoi rimediare.»
+- 0–20 · BOOMER: «Hai trattato il quiz come una lingua straniera: sui trend sei fermo al 2012 e quello che hai colto ti è passato sopra come una storia di 24 ore. Non è questione di età, è questione di feed. Ma tu non celaffai proprio!»
+- 21–40 · ZIO / ZIA: «Ti muovi, ci provi e si vede: metà delle cose ti sfugge e l'altra metà la fingi piuttosto bene, meglio di tuo zio a Natale ma non di tuo cugino. Sei un po' al limite, ma celaffai ancora.»
+- 41–60 · BRO / SIS: «Hai capito il giro, sai di cosa si parla e anche perché: il tuo feed è più aggiornato del nostro e non ti sfugge niente. Tu celaffai e te la scialli anche.»
