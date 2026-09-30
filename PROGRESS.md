@@ -15,3 +15,4 @@ Registro di avanzamento letto e aggiornato da ogni sessione pianificata. Voci in
 - 2026-09-30 (sera, 10): idee di Andrea per i personaggi della card salvate in `docs/IDEE-CARD.md` (personaggi originali ispirati, non i personaggi protetti).
 - 2026-09-30 (sera, 11): aggiornata l'idea ZIA in `docs/IDEE-CARD.md` (giovanile, sui 40, gag sullo sfondo con personaggio originale).
 - 2026-09-30 (sera, 12): giudizi finali riscritti in 3 frasi più lunghe con il refrain «celaffai» (testi di chiusura dati da Andrea).
+- 2026-09-30 (sera, 13): nei giudizi finali la frase con «celaffai» passa all'inizio.

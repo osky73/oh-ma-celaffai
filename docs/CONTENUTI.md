@@ -174,6 +174,6 @@ I tag vanno mostrati esattamente come scritti. I tag sono separati da " | ".
 
 Tre fasce, una frase ciascuna, abbinata al termine finale. Il termine dipende dallo switch MASCHIO/FEMMINA (BOOMER è uguale per entrambi).
 
-- 0–20 · BOOMER: «Hai trattato il quiz come una lingua straniera: sui trend sei fermo al 2012 e quello che hai colto ti è passato sopra come una storia di 24 ore. Non è questione di età, è questione di feed. Ma tu non celaffai proprio!»
-- 21–40 · ZIO / ZIA: «Ti muovi, ci provi e si vede: metà delle cose ti sfugge e l'altra metà la fingi piuttosto bene, meglio di tuo zio a Natale ma non di tuo cugino. Sei un po' al limite, ma celaffai ancora.»
-- 41–60 · BRO / SIS: «Hai capito il giro, sai di cosa si parla e anche perché: il tuo feed è più aggiornato del nostro e non ti sfugge niente. Tu celaffai e te la scialli anche.»
+- 0–20 · BOOMER: «Ma tu non celaffai proprio! Hai trattato il quiz come una lingua straniera: sui trend sei fermo al 2012 e quello che hai colto ti è passato sopra come una storia di 24 ore. Non è questione di età, è questione di feed.»
+- 21–40 · ZIO / ZIA: «Sei un po' al limite, ma celaffai ancora. Ti muovi, ci provi e si vede: metà delle cose ti sfugge e l'altra metà la fingi piuttosto bene, meglio di tuo zio a Natale ma non di tuo cugino.»
+- 41–60 · BRO / SIS: «Tu celaffai e te la scialli anche. Hai capito il giro, sai di cosa si parla e anche perché: il tuo feed è più aggiornato del nostro e non ti sfugge niente.»
