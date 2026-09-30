@@ -15,3 +15,10 @@ Iron Man e zia May sono personaggi protetti: nelle illustrazioni non vanno ripro
 - zia: la zia premurosa e apprensiva, con cardigan e borsa capiente.
 Niente nomi, loghi, colori-firma o elementi distintivi dei personaggi originali.
 Le illustrazioni (SVG originali disegnati da codice, oppure immagini caricate da Andrea) vanno decise in fase di proposta. Sul sigaro: valutare un'alternativa (pipa, o niente) per un pubblico giovane.
+
+## Aggiornamento ZIA (30/09)
+- Aspetto giovanile, sui 40 anni.
+- Idea di Andrea: sullo sfondo, sfocato, un personaggio appeso nel riquadro di una finestra, in stile «uomo ragno».
+- Da non fare: Spider-Man e qualunque figura che ne richiami costume, pose o elementi riconoscibili.
+- Alternativa originale da proporre: sullo sfondo, sfocato, un lavavetri o un rider appeso fuori dalla finestra (gag visiva, nessun riferimento a personaggi protetti).
+
