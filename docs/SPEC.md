@@ -6,7 +6,7 @@ Lingua del prodotto, dei testi e dei commenti: italiano.
 
 ## 1. I 20 fenomeni (decisi)
 
-RIZZ e MEWING sono stati tolti. Aggiunti SPINGERE e ME CONTRO TE. Il 30/09 SIGMA è stato sostituito da GOAT e KAI CENAT da VIOLA SILVI. Non sostituire altri fenomeni senza una nuova indicazione di Andrea.
+RIZZ e MEWING sono stati tolti. Aggiunti SPINGERE e ME CONTRO TE. Il 30/09 SIGMA è stato sostituito da GOAT e KAI CENAT da BREAKFAST CLUB (Italia), passando per VIOLA SILVI. Non sostituire altri fenomeni senza una nuova indicazione di Andrea.
 
 | # | Fenomeno | Slug immagine | Macro-categoria | Formato domanda (`stem`) |
 |---|----------|---------------|-----------------|--------------------------|
@@ -24,7 +24,7 @@ RIZZ e MEWING sono stati tolti. Aggiunti SPINGERE e ME CONTRO TE. Il 30/09 SIGMA
 | 12 | SIUUU | siuuu | Meme e gesti | Cos'è «SIUUU»? |
 | 13 | KHABY LAME | khaby-lame | Creator | Chi è Khaby Lame? |
 | 14 | ISHOWSPEED | ishowspeed | Creator | Chi è IShowSpeed? |
-| 15 | VIOLA SILVI | viola-silvi | Creator | Chi è Viola Silvi? |
+| 15 | BREAKFAST CLUB (Italia) | breakfast-club | Creator | Chi compone il Breakfast Club (Italia)? (proposta di Andrea, da rivedere) |
 | 16 | MRBEAST | mrbeast | Creator | Chi è MrBeast? |
 | 17 | ME CONTRO TE | me-contro-te | Creator | Chi sono i Me contro Te? (target più pre-teen: tono e tag coerenti) |
 | 18 | DRIP | drip | Moda e brand | Cosa significa «drip»? |
@@ -32,7 +32,7 @@ RIZZ e MEWING sono stati tolti. Aggiunti SPINGERE e ME CONTRO TE. Il 30/09 SIGMA
 | 20 | GCDS | gcds | Moda e brand | Cos'è «GCDS»? |
 
 - Ogni fenomeno ha un campo `stem` (frase della domanda): non va scritto nel codice dell'interfaccia.
-- VIOLA SILVI: scelta di Andrea, senza contesto fornito. Scrivere solo ciò di cui si è certi e marcare ogni dubbio come "DA VERIFICARE" nel documento di validazione; non inventare dettagli su una persona reale.
+- BREAKFAST CLUB (Italia): collettivo italiano scelto da Andrea (al posto di Viola Silvi, a sua volta subentrata a Kai Cenat). Specificare sempre "Italia" per distinguerlo dall'omonimo programma radiofonico statunitense. Formato domanda da rivedere con Andrea: l'idea è «Chi compone il Breakfast Club (Italia)?», con i tag corretti e i distrattori basati sui membri. Scrivere solo ciò di cui si è certi, marcare ogni dubbio (soprattutto la composizione attuale) come "DA VERIFICARE" e non inventare dettagli su persone reali.
 - Slang: «Cosa significa [termine]?». Creator: «Chi è?». Brand, prodotti, meme e gesti: «Cos'è?».
 - Macro-categorie: Slang (10), Creator (5), Meme e gesti (2), Moda e brand (3).
 - Il "categoria migliore" del risultato finale si calcola sulla **percentuale** di tag corretti per categoria (le categorie hanno dimensioni diverse), non sul conteggio assoluto. Spareggio: ordine Slang, Creator, Meme e gesti, Moda e brand.
