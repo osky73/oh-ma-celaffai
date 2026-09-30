@@ -22,7 +22,7 @@ Se un prerequisito di Andrea manca, si fa tutto il resto e si annota `BLOCCATO:`
 - [ ] Setup Vitest
 
 ## Fase 0 — contenuti definiti in chat con Andrea (in corso, prima del Giorno 2)
-Andrea e Claude definiscono in chat, a blocchi di 4 fenomeni: domanda, 3 tag corretti, 4 tag errati, COS'È, PERCHÉ, didascalia, e i giudizi finali (frasi ironiche per fascia e per BRO/SIS/ZIO/ZIA/BOOMER). Ogni blocco approvato viene salvato in `docs/CONTENUTI.md`, che è la fonte di verità dei testi. Niente testi inventati da sessioni automatiche.
+Andrea e Claude definiscono in chat, a blocchi di 4 fenomeni: domanda, 3 tag corretti, 4 tag errati, commento (COS'È e PERCHÉ insieme), e i giudizi finali (frasi ironiche per fascia e per BRO/SIS/ZIO/ZIA/BOOMER). Ogni blocco approvato viene salvato in `docs/CONTENUTI.md`, che è la fonte di verità dei testi. Niente testi inventati da sessioni automatiche.
 
 ## Giorno 2 — ven 2 ott: integrazione contenuti
 - [ ] Integrare `docs/CONTENUTI.md` in `data/phenomena.ts` e nelle costanti dei giudizi finali, testi identici a quelli approvati
@@ -40,7 +40,7 @@ Andrea e Claude definiscono in chat, a blocchi di 4 fenomeni: domanda, 3 tag cor
 ## Giorno 4 — mar 6 ott: schermate del quiz
 - [ ] Schermata iniziale
 - [ ] Schermata domanda: immagine grande zoomata e scurita, nome, intro, 7 chip, "Scegli 3 tag", conferma
-- [ ] Schermata "VEDIAMO SE CI HAI PRESO": corretti, sbagliati, selezioni giuste, corretti non selezionati, COS'È?, PERCHÉ?, immagine rivelata con didascalia, "PROSSIMA DOMANDA"
+- [ ] Schermata "VEDIAMO SE CI HAI PRESO": corretti, sbagliati, selezioni giuste, corretti non selezionati, commento unico «COS'È E PERCHÉ?», immagine rivelata senza didascalia, "PROSSIMA DOMANDA"
 - [ ] Fallback grafico quando l'immagine manca
 - [ ] Animazioni leggere, `prefers-reduced-motion`, tap target, `aria-pressed`, contrasto
 

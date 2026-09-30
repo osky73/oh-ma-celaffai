@@ -10,16 +10,16 @@ RIZZ e MEWING sono stati tolti. Aggiunti SPINGERE e ME CONTRO TE. Il 30/09 SIGMA
 
 | # | Fenomeno | Slug immagine | Macro-categoria | Formato domanda (`stem`) |
 |---|----------|---------------|-----------------|--------------------------|
-| 1 | 6/7 (sixseven) | sixseven | Slang | Cosa significa «6/7»? |
-| 2 | AURA | aura | Slang | Cosa significa «aura»? |
-| 3 | GOAT | goat | Slang | Cosa significa «GOAT»? |
+| 1 | 6/7 (sixseven) | sixseven | Slang | 6/7 ma in che senso? |
+| 2 | AURA | aura | Slang | Quando hai aura? |
+| 3 | GOAT | goat | Slang | Chi è GOAT? |
 | 4 | BRAINROT | brainrot | Slang | Cosa significa «brainrot»? |
 | 5 | FLEXARE | flexare | Slang | Cosa significa «flexare»? |
 | 6 | DROPPARE | droppare | Slang | Cosa significa «droppare»? |
 | 7 | GHOSTARE | ghostare | Slang | Cosa significa «ghostare»? |
 | 8 | CRINGE | cringe | Slang | Cosa significa «cringe»? |
 | 9 | CHILL / CHILLARE | chill | Slang | Cosa significa «chill / chillare»? |
-| 10 | SPINGERE | spingere | Slang | Cosa significa «spingere»? (senso: "è figo, forte, gasa", es. "questa canzone spinge") |
+| 10 | SPINGERE | spingere | Slang | Quando qualcosa spinge? |
 | 11 | SKIBIDI TOILET | skibidi-toilet | Meme e gesti | Cos'è «Skibidi Toilet»? |
 | 12 | SIUUU | siuuu | Meme e gesti | Cos'è «SIUUU»? |
 | 13 | KHABY LAME | khaby-lame | Creator | Chi è Khaby Lame? |
@@ -33,9 +33,11 @@ RIZZ e MEWING sono stati tolti. Aggiunti SPINGERE e ME CONTRO TE. Il 30/09 SIGMA
 
 - Ogni fenomeno ha un campo `stem` (frase della domanda): non va scritto nel codice dell'interfaccia.
 - BREAKFAST CLUB (Italia): collettivo italiano scelto da Andrea (al posto di Viola Silvi, a sua volta subentrata a Kai Cenat). Specificare sempre "Italia" per distinguerlo dall'omonimo programma radiofonico statunitense. Formato domanda da rivedere con Andrea: l'idea è «Chi compone il Breakfast Club (Italia)?», con i tag corretti e i distrattori basati sui membri. Scrivere solo ciò di cui si è certi, marcare ogni dubbio (soprattutto la composizione attuale) come "DA VERIFICARE" e non inventare dettagli su persone reali.
-- Slang: «Cosa significa [termine]?». Creator: «Chi è?». Brand, prodotti, meme e gesti: «Cos'è?».
+- Le domande (`stem`) sono scritte a mano per ogni fenomeno, non seguono una formula fissa: quelle già definite da Andrea sono nella tabella, le altre arrivano da `docs/CONTENUTI.md`.
 - Macro-categorie: Slang (10), Creator (5), Meme e gesti (2), Moda e brand (3).
 - Il "categoria migliore" del risultato finale si calcola sulla **percentuale** di tag corretti per categoria (le categorie hanno dimensioni diverse), non sul conteggio assoluto. Spareggio: ordine Slang, Creator, Meme e gesti, Moda e brand.
+- Il brief originale prevedeva blocchi separati "COS'È?" e "PERCHÉ?" e una didascalia: sono superati. La schermata dopo la risposta mostra un solo blocco di commento, intitolato "COS'È E PERCHÉ?" (titolo proposto), e l'immagine senza didascalia.
+- I tag si mostrano esattamente come scritti in `docs/CONTENUTI.md` (anche minuscoli e con grafia informale), senza normalizzarli.
 - Per ogni fenomeno: 3 tag corretti + 4 tag errati plausibili e legati al tema (niente risposte assurde). Il dataset è fisso: lo shuffle cambia solo l'ordine delle domande e la posizione dei 7 tag, mai il contenuto.
 - Tono: leggero, ironico, contemporaneo, mai da gioco per bambini. Campi per fenomeno: intro brevissima, COS'È, PERCHÉ, didascalia immagine.
 
