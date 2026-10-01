@@ -14,12 +14,12 @@ Se un prerequisito di Andrea manca, si fa tutto il resto e si annota `BLOCCATO:`
 | Venerdì 9 mattina | Fornire il contatto del titolare per `/privacy` |
 
 ## Giorno 1 — gio 1 ott: fondamenta
-- [ ] Scaffold Next.js (App Router) + TypeScript + Tailwind nella radice della repo, `.gitignore`, `README.md`
-- [ ] Collegare la repo a un progetto Vercel e fare il primo deploy (se il collegamento GitHub non è autorizzato, annotare BLOCCATO con i passi manuali)
-- [ ] Tipi e schema dati: `lib/types.ts`, `data/phenomena.ts` con i 20 fenomeni, slug, macro-categoria e `stem` come da SPEC (contenuti testuali ancora vuoti)
-- [ ] `docs/IMAGES.md`: 20 nomi file con indicazione di taglio/zoom per ciascuno
-- [ ] Design tokens (palette, font via `next/font`, raggi, ombre) in stile social contemporaneo
-- [ ] Setup Vitest
+- [x] Scaffold Next.js (App Router) + TypeScript + Tailwind nella radice della repo, `.gitignore`, `README.md`
+- [ ] (BLOCCATO, vedi PROGRESS.md) Collegare la repo a un progetto Vercel e fare il primo deploy (se il collegamento GitHub non è autorizzato, annotare BLOCCATO con i passi manuali)
+- [x] Tipi e schema dati: `lib/types.ts`, `data/phenomena.ts` con i 20 fenomeni, slug, macro-categoria e `stem` come da SPEC (contenuti testuali ancora vuoti)
+- [x] `docs/IMAGES.md`: 20 nomi file con indicazione di taglio/zoom per ciascuno
+- [x] Design tokens (palette, font via `next/font`, raggi, ombre) in stile social contemporaneo
+- [x] Setup Vitest
 
 ## Fase 0 — contenuti definiti in chat con Andrea (in corso, prima del Giorno 2)
 Andrea e Claude definiscono in chat, a blocchi di 4 fenomeni: domanda, 3 tag corretti, 4 tag errati, commento (COS'È e PERCHÉ insieme), e i giudizi finali (frasi ironiche per fascia e per BRO/SIS/ZIO/ZIA/BOOMER). Ogni blocco approvato viene salvato in `docs/CONTENUTI.md`, che è la fonte di verità dei testi. Niente testi inventati da sessioni automatiche.
