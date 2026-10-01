@@ -1,0 +1,51 @@
+@import "tailwindcss";
+
+/* Design tokens: stile social contemporaneo, scuro con accenti acidi */
+:root {
+  --bg: #0b0b12;
+  --surface: #161622;
+  --surface-2: #20202f;
+  --text: #f6f5ff;
+  --muted: #a3a3bd;
+  --accent: #c6ff3d;      /* lime acido */
+  --accent-2: #ff3d9a;    /* rosa shock */
+  --accent-3: #6a5cff;    /* viola elettrico */
+  --good: #3dffa0;
+  --bad: #ff5470;
+  --radius-card: 1.75rem;
+  --radius-chip: 999px;
+  --shadow-card: 0 12px 40px -12px rgb(0 0 0 / 0.6);
+  --shadow-pop: 0 0 0 3px rgb(198 255 61 / 0.35);
+  --tap-min: 44px;
+}
+
+@theme inline {
+  --color-bg: var(--bg);
+  --color-surface: var(--surface);
+  --color-surface-2: var(--surface-2);
+  --color-ink: var(--text);
+  --color-muted: var(--muted);
+  --color-accent: var(--accent);
+  --color-accent-2: var(--accent-2);
+  --color-accent-3: var(--accent-3);
+  --color-good: var(--good);
+  --color-bad: var(--bad);
+  --radius-card: var(--radius-card);
+  --radius-chip: var(--radius-chip);
+  --shadow-card: var(--shadow-card);
+  --font-sans: var(--font-body), system-ui, sans-serif;
+  --font-display: var(--font-display), system-ui, sans-serif;
+}
+
+body {
+  background: var(--bg);
+  color: var(--text);
+  font-family: var(--font-body), system-ui, sans-serif;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after {
+    animation-duration: 0.01ms !important;
+    transition-duration: 0.01ms !important;
+  }
+}

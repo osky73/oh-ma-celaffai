@@ -7,3 +7,12 @@ Quiz web sui trend dei ragazzi di oggi in Italia: slang, meme, creator, moda e i
 - Avanzamento: `PROGRESS.md`
 
 Stack previsto: Next.js + TypeScript + Tailwind su Vercel, Upstash Redis per i suggerimenti.
+
+## Sviluppo
+
+```
+npm install
+npm run dev      # sviluppo
+npm run build    # build di produzione
+npm test         # test Vitest
+```
