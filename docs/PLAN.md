@@ -15,7 +15,7 @@ Se un prerequisito di Andrea manca, si fa tutto il resto e si annota `BLOCCATO:`
 
 ## Giorno 1 — gio 1 ott: fondamenta
 - [x] Scaffold Next.js (App Router) + TypeScript + Tailwind nella radice della repo, `.gitignore`, `README.md`
-- [ ] (BLOCCATO, vedi PROGRESS.md) Collegare la repo a un progetto Vercel e fare il primo deploy (se il collegamento GitHub non è autorizzato, annotare BLOCCATO con i passi manuali)
+- [x] Collegare la repo a un progetto Vercel e fare il primo deploy (se il collegamento GitHub non è autorizzato, annotare BLOCCATO con i passi manuali)
 - [x] Tipi e schema dati: `lib/types.ts`, `data/phenomena.ts` con i 20 fenomeni, slug, macro-categoria e `stem` come da SPEC (contenuti testuali ancora vuoti)
 - [x] `docs/IMAGES.md`: 20 nomi file con indicazione di taglio/zoom per ciascuno
 - [x] Design tokens (palette, font via `next/font`, raggi, ombre) in stile social contemporaneo
